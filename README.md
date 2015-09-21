@@ -2,4 +2,4 @@ flycheck-infer - Flycheck for java using Infer
 ==============================================
 
 
-A java syntax checker using Facebook's [Infer](https://github.com/facebook/infer)
+Java syntax check and static analysis for Emacs using [Infer](https://fbinfer.com)
